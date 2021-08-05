@@ -1,2 +1,3 @@
 # frontendWebLearning
- This repo contains my React JS apps
+
+This repo contains my frontend learning projects
